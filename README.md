@@ -27,6 +27,7 @@ Setting up the PHP side
 2. Make sure that the data in $postData matches the one in your C# heartbeat!
 
 ![C# Image example](/serverList.PNG "C# side.")
+
 ![PHP Image example](/beatSettingsPHP.PNG "PHP side.")
 Setting up the Web side
 ===================
