@@ -15,7 +15,6 @@ $infoStoragePath = "serverList.txt"; // Change if using flatfile instead of data
 $postData = array('isPublic', 'serverName'); // Data to get. C# and this have to match. Make sure these match the order of the titles below.
 $postDataTableTitles = array('Server is Public', 'Name of Server'); // These will be the titles for the HTML table.
 
-
 $succesfulHeartbeatMessage = "Succesful heartbeat!"; // This is shown when the heartbeat is good.
 $invalidHeartbeatMessage = "Invalid heartbeat! :("; // This is shown the the heartbeat is missing information.
 ?>

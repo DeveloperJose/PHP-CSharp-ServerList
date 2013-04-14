@@ -26,7 +26,7 @@ if(!$useDatabase){
 	// TODO: Sorting.
 	$serverList = file($infoStoragePath); // Read the data from our file.
 	for($i = 0; $i < count($serverList); $i++){ // Get all of our servers.
-	        $currentServer = explode("|", $serverList[$i]); // Separate all of our server details into an array.
+			$currentServer = explode("|", $serverList[$i]); // Separate all of our server details into an array.
 		for($ii = 1; $ii < count($currentServer); $ii++){ // Our index is at 1 to not print the IP(Key) value.
 			echo "<td>".$currentServer[$ii]."</td>"; // Print the rest of the values.
 		}
