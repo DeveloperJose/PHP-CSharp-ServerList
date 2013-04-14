@@ -1,0 +1,29 @@
+/*
+ * Copyright 2013 Gamemakergm <gamemakergm@safaree.org>
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to
+ * Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+ */
+/**
+  * Our Table Style
+  * This defines how our table will look like.
+  */
+table {
+ border: 1px solid black;
+}
+/**
+  * The Table Titles Style
+  * This defines how the header/titles will look like.
+  */
+th {
+ border: 1px solid black;
+ text-align: center;
+}
+/**
+  * The Table Data Style
+  * This defines how our data will look.
+  */
+td {
+ border: 1px solid black;
+ text-align: center;
+}

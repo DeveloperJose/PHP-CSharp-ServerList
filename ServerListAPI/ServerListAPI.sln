@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerListAPI", "MCServerListAPI\ServerListAPI.csproj", "{A5A51544-BA58-462E-AFB2-D9381701A5A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerListAPI", "ServerListAPI\ServerListAPI.csproj", "{A5A51544-BA58-462E-AFB2-D9381701A5A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleExample", "ConsoleExample\ConsoleExample.csproj", "{22ACF6B8-1AEA-47D9-BF39-C333D71011CF}"
 EndProject

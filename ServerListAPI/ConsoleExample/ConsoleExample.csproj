@@ -43,7 +43,7 @@
     <Compile Include="ServerExample.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MCServerListAPI\ServerListAPI.csproj">
+    <ProjectReference Include="..\ServerListAPI\ServerListAPI.csproj">
       <Project>{A5A51544-BA58-462E-AFB2-D9381701A5A4}</Project>
       <Name>ServerListAPI</Name>
     </ProjectReference>
