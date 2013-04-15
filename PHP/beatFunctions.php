@@ -33,7 +33,7 @@ function CheckPOSTData($postData, $expectedData){
 			return false; // Oh noes.
 			break;
 		}
-		$data[$i] = $postData[$currentItem]; // Otherwise add it to the array!
+		$data[$i] = htmlspecialchars(strip_tags($postData[$currentItem])); // Otherwise add it to the array!
 	}
 	return $data;
 }
