@@ -1,6 +1,6 @@
 <html>
 <!--
-    Copyright 2013 Gamemakergm <gamemakergm@safaree.org>
+    Copyright 2013 Gamemakergm <gamemakergmdev@gmail.com>
     This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
     To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to
     Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
@@ -37,7 +37,7 @@ if(!$useDatabase){
 </table>
 <hr />
 <p style="font-size:8px">
-Copyright 2013 Gamemakergm. Created by Gamemakergm, <a href="mailto:gamemakergm@safaree.org?Subject=ServerListWebsite">Contact Me </a>
+Copyright 2013 Gamemakergm. Created by Gamemakergm, <a href="mailto:gamemakergmdev@gmail.com?Subject=ServerListWebsite">Contact Me </a>
 </p>
 </body>
 </html>
