@@ -1,7 +1,6 @@
 ServerList
 ===================
-PHP and C# powered heartbeater and server lister for any kind of game/application.
-Created by Gamemakergm <gamemakergmdev@gmail.com>
+PHP and C# powered heartbeater and server lister for any kind of game/application. Inspired by Minecraft's classic server lister.
 
 To see a working example of the C# side, look at the ConsoleExample project.
 
