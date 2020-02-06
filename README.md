@@ -1,4 +1,4 @@
-ServerList
+Server Lister
 ===================
 PHP and C# powered heartbeater and server lister for any kind of game/application. Inspired by Minecraft's classic server lister.
 
@@ -32,6 +32,8 @@ Setting up the PHP side
 Setting up the Web side
 ===================
 1. Add ip.php to any location you want on your site and make sure to link it to your server class implementing IHeartbeatServer
+
 ![IHeartbeatServer Implementation](/IPAddress.PNG "Make sure this is the address to your ip.php file")
+
 2. Add beat.php, beatSettings.php, and beatFunctions.php to your site root.
 3. Add index.php and beatStyle.css to your site root.
