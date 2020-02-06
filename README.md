@@ -28,6 +28,7 @@ Setting up the PHP side
 ![C# Image example](/serverList.PNG "C# side.")
 
 ![PHP Image example](/beatSettingsPHP.PNG "PHP side.")
+
 Setting up the Web side
 ===================
 1. Add ip.php to any location you want on your site and make sure to link it to your server class implementing IHeartbeatServer
